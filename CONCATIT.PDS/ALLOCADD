@@ -1,4 +1,4 @@
-  /*%NOcomment ----------  rexx procedure  -------------------- *
+  /* --------------------  rexx procedure  -------------------- *
   | Name:      ALLOCADD                                        |
   |                                                            |
   | Function:  Re-Allocate the specified DD adding the         |

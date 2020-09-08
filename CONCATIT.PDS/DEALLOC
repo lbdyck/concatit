@@ -1,4 +1,4 @@
-  /*%NOcomment ----------  rexx procedure  -------------------- *
+  /* --------------------  rexx procedure  -------------------- *
   | Name:      DEALLOC                                         |
   |                                                            |
   | Function:  Remove a dataset from an Allocation             |
